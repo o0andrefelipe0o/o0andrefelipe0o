@@ -23,7 +23,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'galaga'
-          github_token: ${{ secrets.PAT_TOKEN }}
+												
 
 
       - name: push galaga-contribution-graph.svg to the output branch
