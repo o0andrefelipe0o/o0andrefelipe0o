@@ -175,10 +175,18 @@
 
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/o0andrefelipe0o/" target="_blank">
-    <img src="https://raw.githubusercontent.com/o0andrefelipe0o/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/o0andrefelipe0o" target="_blank">
-    <img src="https://raw.githubusercontent.com/o0andrefelipe0o/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/o0andrefelipe0o">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=o0andrefelipe0o&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
