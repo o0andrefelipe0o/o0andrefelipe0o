@@ -2,7 +2,9 @@
 
 ###
 
+										  
 <img width="7800" height="1800" alt="Capa Pixelart" src="https://github.com/user-attachments/assets/de589821-a409-4d54-a870-811862a69383" />
+	  
 
 ###
 
@@ -167,6 +169,17 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/o0andrefelipe0o/o0andrefelipe0o/activity-graph-output/activity-graph.svg?radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/o0andrefelipe0o/" target="_blank">
+    <img src="https://raw.githubusercontent.com/o0andrefelipe0o/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/o0andrefelipe0o" target="_blank">
+    <img src="https://raw.githubusercontent.com/o0andrefelipe0o/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
