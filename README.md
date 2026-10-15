@@ -25,7 +25,7 @@
 
 ###
 
-<p data-importer="text" align="left">**Estudante**  de  **Engenharia  de  Software**,  com  **formação  técnica**  em  **Análise  e  Desenvolvimento de Sistemas** e **experiência profissional** na área. Possuo uma base sólida em **lógica de programação**, criação de **documentação  técnica**,  **fluxogramas**  de  **UML,**  fluxos automatizados com **n8n**, **modelagem de sistemas**, **versionamento de código com Git e GitHub** e estruturação de **regras de negócio**.</p>
+<p data-importer="text" align="left"><b>Estudante</b>  de  <b>Engenharia  de  Software</b>,  com  <b>formação  técnica</b>  em  <b>Análise  e  Desenvolvimento de Sistemas</b> e <b>experiência profissional</b> na área. Possuo uma base sólida em <b>lógica de programação</b>, criação de <b>documentação  técnica</b>,  <b>fluxogramas</b>  de  <b>UML,</b>  fluxos automatizados com <b>n8n</b>, <b>modelagem de sistemas</b>, <b>versionamento de código com Git e GitHub</b> e estruturação de <b>regras de negócio</b>.</p>
 
 ###
 
@@ -167,17 +167,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/o0andrefelipe0o/o0andrefelipe0o/activity-graph-output/activity-graph.svg?radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/o0andrefelipe0o/" target="_blank">
-    <img src="https://raw.githubusercontent.com/o0andrefelipe0o/o0andrefelipe0o/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/o0andrefelipe0o" target="_blank">
-    <img src="https://raw.githubusercontent.com/o0andrefelipe0o/o0andrefelipe0o/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
