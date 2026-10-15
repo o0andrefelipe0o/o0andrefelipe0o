@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="7800" height="1800" alt="Capa Pixelart" src="https://github.com/user-attachments/assets/de589821-a409-4d54-a870-811862a69383" />
+
 <!--
 **o0andrefelipe0o/o0andrefelipe0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
