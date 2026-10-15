@@ -180,14 +180,6 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/o0andrefelipe0o">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=o0andrefelipe0o&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <!--
 **o0andrefelipe0o/o0andrefelipe0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
