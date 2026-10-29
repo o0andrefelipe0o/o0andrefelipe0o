@@ -63,8 +63,24 @@
 
 ###
 
+<h3 data-importer="text" align="left">Estatísticas 📈:</h3>
+
+###
+
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/o0andrefelipe0o/o0andrefelipe0o/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <p align="center">
+    <img
+      alt="GitHub Stats"
+      height="150"
+      src="https://raw.githubusercontent.com/o0andrefelipe0o/o0andrefelipe0o/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=false&order=1"
+    />
+    <img
+      alt="Top Languages"
+      height="150"
+      src="https://raw.githubusercontent.com/o0andrefelipe0o/o0andrefelipe0o/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2"
+    />
+  </p>
+  <br clear="all"/>
 </div>
 
 ###
@@ -155,12 +171,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
-</div>
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/o0andrefelipe0o/o0andrefelipe0o/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
