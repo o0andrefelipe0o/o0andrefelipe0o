@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=o0andrefelipe0o.visitor-badge&left_text=Visitas%3A&left_color=black&right_color=black&logo=github" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=07112026&left_text=Visitas%3A&left_color=black&right_color=black&logo=github" alt="visitor badge"/>
 </div>
 
 <img width="7800" height="1800" alt="Capa Pixelart" src="https://github.com/user-attachments/assets/de589821-a409-4d54-a870-811862a69383" />
@@ -13,7 +13,7 @@
   <a href="https://x.com/o0andrefelipe0o" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="25" alt="X" />
   </a>
-  <a href="mailto:andrefelipe.m1998@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andrefelipe.m1998@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="25" alt="Gmail" />
   </a>
 </div>
@@ -196,7 +196,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="20" alt="twitter logo"  />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:andrefelipe.m1998@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andrefelipe.m1998@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" alt="Gmail" />
   </a>
 </div>
