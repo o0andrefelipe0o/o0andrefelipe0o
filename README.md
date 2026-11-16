@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=07112026&left_text=Visitas%3A&left_color=black&right_color=black&logo=github" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=16112026&left_text=Visitas%3A&left_color=black&right_color=black&logo=github" alt="visitor badge"/>
 </div>
 
 <img width="7800" height="1800" alt="Capa Pixelart" src="https://github.com/user-attachments/assets/de589821-a409-4d54-a870-811862a69383" />
